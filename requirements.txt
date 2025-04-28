@@ -1,0 +1,11 @@
+flask
+pandas
+numpy
+scipy
+scikit-learn
+lightgbm
+xgboost
+catboost
+prophet
+joblib
+gunicorn
